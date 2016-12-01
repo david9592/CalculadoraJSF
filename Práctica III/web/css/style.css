@@ -1,0 +1,31 @@
+
+body
+{
+    background-color: #FFFFFF;
+    background-image: url("https://pbs.twimg.com/media/CtTuewkWAAAMvpB.jpg");
+    background-position: center 0px;
+    background-repeat: no-repeat;
+}
+
+form
+{
+    float:none;
+    padding: 190px;
+    display:block;
+    width:350px;
+    margin:auto;
+    text-align:left;
+}
+
+#formulario
+{
+    position: relative;
+    background-color: #FFFFFF;
+        opacity: 0.8;
+    text-align: center;
+}
+
+#cabezera
+{
+    text-align: center;
+}
